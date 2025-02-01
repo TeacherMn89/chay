@@ -1,0 +1,98 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+header {
+    
+}
+
+.button {
+    
+    
+}
+
+nav {
+    
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+logo {
+    width: 300px;
+    height: 300px;
+}
+nav a {
+  position: absolute;
+  right: -80px;
+  transition: 0.3s;
+  padding: 15px;
+  width: 100px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  border-radius: 0 5px 5px 0;
+}
+nav a:hover {
+  right: 0;;
+}
+.about {
+  margin-top: 20px;
+  background-color: #4CAF50;
+}
+.blog {
+  margin-top: 80px;
+  background-color: #2196F3;
+}
+.projects {
+  margin-top: 140px;
+  background-color: #f44336;
+}
+.contact {
+  margin-top: 200px;
+  background-color: #555;
+}
+h1{
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+
+}
+
+
